@@ -1,0 +1,26 @@
+_repo: Lowney-s-Cook-Book-Illustrated-in-Colors_52800
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Howard, Maria Willett
+    gutenberg_agent_id: '47048'
+    url: http://www.gutenberg.org/2009/agents/47048
+description: ''
+gutenberg_issued: '2016-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52800'
+  lccn: 08005611
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking'
+- !lcsh 'Cooking, American'
+- !lcc 'TX'
+- GITenberg
+title: 'Lowney''s Cook Book
+
+  Illustrated in Colors'
+url: http://www.gutenberg.org/ebooks/52800
